@@ -2,6 +2,7 @@
   "name": "react-player",
   "private": true,
   "version": "0.0.0",
+  "author": "Miguel González <migpalg@gmail.com>",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
